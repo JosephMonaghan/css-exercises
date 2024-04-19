@@ -25,7 +25,10 @@ body {
 
 .header ul {
   display:flex;
+  align-items: center;
   gap: 10px;
+  margin: 0;
+  padding:0;
 }
 
 .profile-image {
